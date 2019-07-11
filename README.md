@@ -6,7 +6,7 @@ CLI app to help you extract JWT token
 ### Requirements
 - Go v1.12.4^
 
-go get -u -v github.com/ajiyakin/jwtcli
+`go get -u -v github.com/ajiyakin/jwtcli`
 
 After execute the command above, the binary file will be placed under `$GOPATH/bin/` folder called `jwtcli`.
 Make sure that folder is included within your `$PATH` environment variable in order to be able to execute it
