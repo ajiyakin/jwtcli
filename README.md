@@ -3,8 +3,8 @@ CLI app to help you extract JWT token
 
 ## Install
 
-### Requirements
-- Go v1.12.4^
+Before you execute the installation command, make sure that you have Golang installed in your machine with
+minimum version is `v1.12.4`.
 
 `go get -u -v github.com/ajiyakin/jwtcli`
 
